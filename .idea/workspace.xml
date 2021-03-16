@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7153dc3-29f3-44be-9686-ffbf92348e77" name="Default Changelist" comment="change back Procfile and update requirements with email_validator">
+    <list default="true" id="e7153dc3-29f3-44be-9686-ffbf92348e77" name="Default Changelist" comment="add postgresql and psycpg2-binary to add postgresql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615921852785</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add postgresql and psycpg2-binary to add postgresql">
+      <created>1615923307417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615923307417</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
     <MESSAGE value="added Procfile and gunicorn" />
     <MESSAGE value="tried fixing Procfile to get it working" />
     <MESSAGE value="change back Procfile and update requirements with email_validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="change back Procfile and update requirements with email_validator" />
+    <MESSAGE value="add postgresql and psycpg2-binary to add postgresql" />
+    <option name="LAST_COMMIT_MESSAGE" value="add postgresql and psycpg2-binary to add postgresql" />
   </component>
 </project>
