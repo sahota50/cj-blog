@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7153dc3-29f3-44be-9686-ffbf92348e77" name="Default Changelist" comment="tried fixing Procfile to get it working">
+    <list default="true" id="e7153dc3-29f3-44be-9686-ffbf92348e77" name="Default Changelist" comment="change back Procfile and update requirements with email_validator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615921571684</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tried fixing Procfile to get it working">
+      <created>1615921733782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615921733782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change back Procfile and update requirements with email_validator">
+      <created>1615921852785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615921852785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +130,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added Procfile and gunicorn" />
     <MESSAGE value="tried fixing Procfile to get it working" />
-    <option name="LAST_COMMIT_MESSAGE" value="tried fixing Procfile to get it working" />
+    <MESSAGE value="change back Procfile and update requirements with email_validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="change back Procfile and update requirements with email_validator" />
   </component>
 </project>
